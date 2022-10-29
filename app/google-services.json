@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651745704003",
+    "project_id": "esandpa2022",
+    "storage_bucket": "esandpa2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651745704003:android:ba56eb7e57ba560256fcf6",
+        "android_client_info": {
+          "package_name": "dev.lchang.firebasedpa2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651745704003-e1f6cj338kherh0hg91pf83h1c3t5isa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYr015hSGOmByMPRn4hKlJ3Or1UMsP60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651745704003-e1f6cj338kherh0hg91pf83h1c3t5isa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
